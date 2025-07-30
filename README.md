@@ -1,3 +1,3 @@
 # Git Training Project
+This project is part of my Git journey — learning collaboration using GitHub and Git.
 
-This project is part of my software development training to learn Git and GitHub workflows.
